@@ -2,10 +2,8 @@ Flask
 flask-cors
 supabase
 face-recognition
-deepface
 gunicorn
 python-dotenv
 PyJWT
-opencv-python
 Pillow
-tensorflow
+
