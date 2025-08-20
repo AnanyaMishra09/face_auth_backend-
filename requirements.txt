@@ -7,4 +7,3 @@ Pillow
 numpy
 face-recognition
 gunicorn
-
