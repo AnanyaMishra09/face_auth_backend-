@@ -1,9 +1,10 @@
 Flask
 flask-cors
 supabase
-face-recognition
-gunicorn
 python-dotenv
 PyJWT
 Pillow
+numpy
+face-recognition
+gunicorn
 
