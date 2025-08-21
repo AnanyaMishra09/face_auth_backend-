@@ -64,14 +64,14 @@ Edit
 SUPABASE_URL="https://your-project-id.supabase.co"
 
 # Supabase anon (public) key
-SUPABASE_KEY="your-supabase-anon-key"
+SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV5b2xkdWx5YW9uZXRiaXdybmlhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU1MjkyODAsImV4cCI6MjA3MTEwNTI4MH0.XvJ73CXThVHXSaUvDTLosR5XV_RCutwcP49A_kCgdf0"
 
 # Secret string for JWT signing
-JWT_SECRET="your-super-secret-jwt-string"
+JWT_SECRET="abcdefghijklmnopqrstuvwxyz"
 
 # Admin credentials
 ADMIN_EMAIL="admin@example.com"
-ADMIN_PASSWORD="a-strong-admin-password"
+ADMIN_PASSWORD="@Admin1234"
 5. Run the Server
 bash
 Copy
