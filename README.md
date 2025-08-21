@@ -44,22 +44,15 @@ All endpoints expect and return **JSON**.
 git clone https://github.com/AnanyaMishra09/face_auth_backend-.git
 cd face_auth_backend-
 2. Create and Activate a Virtual Environment
-bash
-Copy
-Edit
+
 python3 -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 3. Install Dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 4. Configure Environment Variables
 Create a .env file in the root directory and add the following:
 
-env
-Copy
-Edit
 # Supabase project URL
 SUPABASE_URL="https://your-project-id.supabase.co"
 
@@ -73,9 +66,6 @@ JWT_SECRET="abcdefghijklmnopqrstuvwxyz"
 ADMIN_EMAIL="admin@example.com"
 ADMIN_PASSWORD="@Admin1234"
 5. Run the Server
-bash
-Copy
-Edit
 flask run --port 5001
 The API will now be running at:
 👉 http://127.0.0.1:5001
